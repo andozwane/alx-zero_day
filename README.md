@@ -1,1 +1,1 @@
-My first readme
+ReadMe for Git Repo Session
